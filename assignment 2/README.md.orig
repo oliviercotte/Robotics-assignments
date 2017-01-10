@@ -1,0 +1,1 @@
+# MATLAB Exercise 3 on page 100 for the third addition (from Introduction to Robotics by John J. Craig)

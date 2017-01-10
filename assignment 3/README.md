@@ -1,0 +1,1 @@
+# MATLAB Exercise 4 on page 133 of the third edition (from Introduction to Robotics by John J. Craig)
